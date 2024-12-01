@@ -8,7 +8,7 @@ h1 {
   text-align: center;
 }
 
-p .lol {
+.lol {
   font-size: 18px;
   color: red;
   text-align: center;
@@ -21,6 +21,7 @@ button {
 }
 
 .jokes {
+  display: flex;
   margin: 0 auto;
   color: rgb(50, 34, 150);
 }
