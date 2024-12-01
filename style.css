@@ -1,5 +1,5 @@
 body {
-  color: bisque;
+  color: rgb(160, 211, 224);
 }
 
 h1 {
@@ -18,4 +18,9 @@ button {
   display: flex;
   padding: 15px;
   margin: 0 auto;
+}
+
+.jokes {
+  margin: 0 auto;
+  color: darkslateblue;
 }
