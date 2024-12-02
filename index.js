@@ -20,7 +20,7 @@ function fetchJoke() {
     })
 
     .then(function (data) {
-      jokeDiv.innerHTML = data.setup + " " + data.punchline.;
+      jokeDiv.innerHTML = data.setup + " " + data.punchline + ".";
     });
 }
 
